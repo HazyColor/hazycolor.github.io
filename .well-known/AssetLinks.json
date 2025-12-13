@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "com.px.alive.ai.music",
       "sha256_cert_fingerprints": [
-        "F6:33:AB:25:D4:89:57:EA:19:C4:E9:93:AC:C3:6C:69:B7:17:A2:FD:A7:FC:78:29:B3:EA:23:CF:0A:0E:F7:AB"
+        "F6:33:AB:25:D4:89:57:EA:19:C4:E9:93:AC:C3:6C:69:B7:17:A2:FD:A7:FC:78:29:B3:EA:23:CF:0A:0E:F7:AB",
+        "00:3D:FB:FA:46:6F:B5:1D:75:BD:04:D5:77:A5:20:D9:F5:A2:C1:BC:3E:4E:4F:C3:F2:CF:EE:36:56:16:88:B8"
       ]
     }
   }
